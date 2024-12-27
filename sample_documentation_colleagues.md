@@ -1,6 +1,6 @@
 # Formal Documentation: Business Understanding
 
-## For Stakeholders
+## For Colleagues and Staff
 
 #### 1. Project Overview
 <ul>
